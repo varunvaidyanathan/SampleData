@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "fullName": "Varun Vaidyanathan",
+    "address": "789 Hammond Dr",
+    "phoneNumber": "4235966681",
+    "email": "varun.vaidyanathan@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Varun Krishna Kumar",
+    "address": "India",
+    "phoneNumber": "730582790",
+    "email": "varun031089name@gmail.com"
+  },
+
+]
